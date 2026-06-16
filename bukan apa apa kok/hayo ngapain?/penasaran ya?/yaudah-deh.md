@@ -23,17 +23,18 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
 > "Rubah itu hewan berbadan anjing tapi berperilaku seperti kucing. Lucu banget kata dia." 🐾
 
 ### Beberapa Hal Unik & Menarik Tentang Dirinya 📝
-*   **Seorang Gamers! 👾**  
-    *Berbanding terbalik denganku (wkwkwk), dia ternyata suka main game. Salah satu game yang dimainkannya adalah Roblox. Teman-teman main barengnya (mabar) adalah bocil-bocil, dan terkadang mereka berkomunikasi via Discord.*
-*   **Tidak Suka Dingin ❄️**  
-    *Ketika aku menanyakan apakah dia kepanasan dan langsung menyalakan AC, dia bercerita bahwa dirinya tidak suka dingin.*
-*   **Jarang Keluar Rumah 🏠**  
-    *Saking jarangnya bepergian, dia bahkan tidak familiar dengan aplikasi Grab karena biasanya yang memesankan adalah ibunya.*
-*   **Keluarga & Saudara 🏡**  
-    *   *Ayah:* Berprofesi sebagai pemilik bengkel AC mobil. Beliau bergelar Haji, dan bersama sang Ibu, keduanya sudah pernah dipanggil Allah untuk menunaikan ibadah ke tanah suci. 🕋🚗
-    *   *Ibu:* Seorang ibu rumah tangga (yang biasanya memesankan Grab untuk rubahku. Menurut ceritanya, ibunya tipe yang sangat teliti jika dia meminta anggaran untuk membeli sesuatu, wkwkwk). 🏠
-    *   *Kakak Perempuan:* Tinggal satu dusun dengan keluarganya, dan mereka berdua lulusan/bersekolah di almamater yang sama. 🎓
-    *   *Adik Perempuan:* Berjarak 8 tahun dengannya (baru kelas 6 SD). Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku. 👧
+
+* **Seorang Gamers! 👾**  
+  *Berbanding terbalik denganku (wkwkwk), dia ternyata suka main game. Salah satu game yang dimainkannya adalah Roblox. Teman-teman main barengnya (mabar) adalah bocil-bocil, dan terkadang mereka berkomunikasi via Discord.*
+* **Tidak Suka Dingin ❄️**  
+  *Ketika aku menanyakan apakah dia kepanasan dan langsung menyalakan AC, dia bercerita bahwa dirinya tidak suka dingin.*
+* **Jarang Keluar Rumah 🏠**  
+  *Saking jarangnya bepergian, dia bahkan tidak familiar dengan aplikasi Grab karena biasanya yang memesankan adalah ibunya.*
+* **Keluarga & Saudara 🏡**  
+  * *Ayah:* Berprofesi sebagai pemilik bengkel AC mobil. Beliau bergelar Haji, dan bersama sang Ibu, keduanya sudah pernah dipanggil Allah untuk menunaikan ibadah ke tanah suci. 🕋🚗
+  * *Ibu:* Seorang ibu rumah tangga (yang biasanya memesankan Grab untuk rubahku. Menurut ceritanya, ibunya tipe yang sangat teliti jika dia meminta anggaran untuk membeli sesuatu, wkwkwk). 🏠
+  * *Kakak Perempuan:* Tinggal satu dusun dengan keluarganya, dan mereka berdua lulusan/bersekolah di almamater yang sama. 🎓
+  * *Adik Perempuan:* Berjarak 8 tahun dengannya (baru kelas 6 SD). Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku. 👧
 
 ---
 
@@ -55,6 +56,9 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
 
 * **Momen:** Di lab dcc, Al-Azhar 102. Kami sedang memasang aplikasi dan membuat blueprint untuk aplikasi manajemen inventaris, sekaligus merencanakan beberapa proker untuk esok hari.
 * **Cerita & Hal Menarik Darinya:**
+  * **Tujuan Kedatangan & Obrolan tentang Client Lawan Jenis 🛰️👩‍💻**  
+    *Aku menjelaskan alasanku datang ke DCC Al-Azhar adalah karena ada project deploy dari kampus sebelah. Berhubung akses remote SSH-nya bisa diakses dari kampusnya, aku memilih ke DCC karena banyak temannya di sini. Dia sempat bertanya, "Aplikasi yang Node Monitor itu ya?" Aku menjawab bukan, karena Node Monitor ini untuk memantau server cabang, sedangkan kedatanganku ke sini adalah untuk mendeploy server bagi kampus ke-3 (dari total 20 kampus sisanya).*  
+    *Di sela-sela pengerjaan, aku sempat mengeluh bahwa rasanya repot sekali jika seorang software engineer harus bertemu langsung dengan lawan jenis dan menjelaskan hal-hal teknis yang sering kali membutuhkan pengulangan. Mendengar keluhanku, dia mengamini dan berkata dengan nada setuju bahwa memang repot sekali mengurusi kampus cewek.*
   * **Punya Basic Skill Dekorator & Amanah Pembuatan Aplikasi 🎨💻**  
     *Dia bercerita bahwa dia memiliki keahlian dasar sebagai dekorator, bahkan hampir di setiap kepanitiaan dia menjadi dekorator. Namun, karena tahun lalu diamanahi di bagian data, mau tidak mau tanggung jawabnya bertambah untuk membuat aplikasi sederhana hingga tingkat lanjut.*
   * **Kendala Laptop Lemot & Orang Tua yang Selektif Anggaran 💻⏳**  
@@ -69,8 +73,14 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
     *Di pertemuan pertama ini, dia sempat mengeluhkan kalau token Antigravity-nya sering habis karena tidak berlangganan. Karena sebelumnya aku sudah berjanji akan memberinya hadiah atas keberhasilannya menyelesaikan aplikasi manajemen qurban yang diberi nama "Quwiren", pada siang itu juga aku langsung menghadiahi dirinya akun Google AI Pro.*
   * **Kisah di Balik Aplikasi "Quwiren" yang Batal Digunakan 🐑💔**  
     *Dia bercerita bahwa aplikasi "Quwiren" yang ia bangun dengan susah payah selama satu minggu ternyata tidak jadi digunakan pada hari-H. Awalnya dia merasa kesal dan marah sejadi-jadinya. Namun keesokan harinya saat acara qurban, dia menyadari bahwa jika dipaksakan untuk dipakai, justru hasilnya tidak akan maksimal. Akhirnya pada hari qurban itu, dia memilih fokus berkeliling untuk menanyakan dan memahami seluruh alur pencatatan pendataan qurban. Hal ini sangat bertolak belakang dengan tugasnya yang biasanya hanya menjadi seorang dekorator.*
+  * **Protes Instagram & Cerita di Balik Akunnya 📱🔍**  
+    *Aku sempat memprotes kenapa akun Instagram-ku belum dia follow back (follback). Dia langsung bertanya, "Follow akun yang mana nih?" Dia kemudian menjelaskan bahwa akun dengan nama lengkapnya adalah akun yang biasa dia berikan ke anak-anak didiknya jika ada yang bertanya, sedangkan akun satunya lagi adalah akun privat khusus untuk teman-teman sebayanya.*  
+    *Siang itu juga, aku langsung mem-follow semua akun miliknya yang kutahu, sambil berharap nanti saat liburan dia bersedia mem-follback-ku. (Entahlah, apakah terlalu berharap perasaan ini berbalas adalah hal yang berlebihan? Wkwkwk).*
   * **Pernah dihukum karena "gholat" (salah/nakal) 🤫**  
     *Dia pernah dihukum membaca Al-Qur'an setiap selesai Subuh di depan rumah Wakil Pengasuh selama hampir 3 minggu lamanya. Hukuman itu didapat karena dia lupa jadwal mengajar; dia mengira ada di jam ke-3, padahal seharusnya dia mengajar di jam ke-2. Lucunya, kata temannya, kadang dia sampai tidak datang dihukum karena susah dibangunkan tidur.* 😂
+  * **Momen Hipnoterapi & Berdamai dengan Inner Child 🧘‍♀️✨**  
+    *Aku sempat menanyakan momen dari dokumentasi seminar beberapa waktu lalu, di mana dia tampak maju ke depan untuk menjadi praktikan hipnoterapi. Aku bertanya, "Kamu disuruh maju, atau mau sendiri?" Dia menjawab mau sendiri, karena ingin tahu seberapa jauh dirinya sudah berhasil berdamai dan memaafkan dirinya sendiri.*  
+    *Dia menceritakan prinsip lamanya: "Kalau ada gelas yang pecah, biarkan saja, jangan disentuh. Karena kalau dibereskan, kita malah bisa terluka." Namun lambat laun dia mulai sadar bahwa inner child dan trauma masa lalu justru perlu dihadapi dan dimaafkan. Kini dia sudah bisa bersahabat dengan inner child-nya. Lucunya, dia bahkan memperagakan seolah-olah ada anak kecil di sampingnya sambil mengelusnya lembut dan berucap, "Kita udah berdamai, kan?" Sungguh menggemaskan sekali rubahku itu! Dan terbukti saat hipnoterapi, dia tidak terlalu terbawa suasana emosional karena sebelumnya sudah berhasil bersahabat dengan dirinya sendiri.*
   * **Cerita Belajar Kaligrafi & Handam Patah ✒️**  
     *Ketika aku memeriksa tempat di mana dia biasanya melaporkan karya kaligrafinya, ternyata tidak kutemukan jejaknya di sana. Ketika kutanya, dia bercerita kalau dirinya sempat kesal karena pembelajaran khot (kaligrafi)-nya tidak maju-maju, bahkan sampai mematahkan 2 buah handam (pena bambu)! Meski begitu, dia tetap memiliki tekad kuat untuk menyelesaikan ijazah khot-nya akhir tahun nanti. Kita tunggu saja kabar baiknya ya!*
 
