@@ -22,6 +22,17 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
 
 > "Rubah itu hewan berbadan anjing tapi berperilaku seperti kucing. Lucu banget kata dia." 🐾
 
+### Beberapa Hal Unik & Menarik Tentang Dirinya 📝
+*   **Seorang Gamers! 👾**  
+    *Berbanding terbalik denganku (wkwkwk), dia ternyata suka main game. Salah satu game yang dimainkannya adalah Roblox. Teman-teman main barengnya (mabar) adalah bocil-bocil, dan terkadang mereka berkomunikasi via Discord.*
+*   **Tidak Suka Dingin ❄️**  
+    *Ketika aku menanyakan apakah dia kepanasan dan langsung menyalakan AC, dia bercerita bahwa dirinya tidak suka dingin.*
+*   **Jarang Keluar Rumah 🏠**  
+    *Saking jarangnya bepergian, dia bahkan tidak familiar dengan aplikasi Grab karena biasanya yang memesankan adalah ibunya.*
+*   **Keluarga & Saudara 🏡**  
+    *   *Kakak Perempuan:* Tinggal satu dusun dengan keluarganya, dan mereka berdua lulusan/bersekolah di almamater yang sama. 🎓
+    *   *Adik Perempuan:* Berjarak 8 tahun dengannya (baru kelas 6 SD). Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku. 👧
+
 ---
 
 ## Cerita Tahun Lalu (Kesan Awal) ⏳
@@ -54,16 +65,6 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
     *Di pertemuan pertama ini, dia sempat mengeluhkan kalau token Antigravity-nya sering habis karena tidak berlangganan. Karena sebelumnya aku sudah berjanji akan memberinya hadiah atas keberhasilannya menyelesaikan aplikasi manajemen qurban yang diberi nama "Quwiren", pada siang itu juga aku langsung menghadiahi dirinya akun Google AI Pro.*
   * **Kisah di Balik Aplikasi "Quwiren" yang Batal Digunakan 🐑💔**  
     *Dia bercerita bahwa aplikasi "Quwiren" yang ia bangun dengan susah payah selama satu minggu ternyata tidak jadi digunakan pada hari-H. Awalnya dia merasa kesal dan marah sejadi-jadinya. Namun keesokan harinya saat acara qurban, dia menyadari bahwa jika dipaksakan untuk dipakai, justru hasilnya tidak akan maksimal. Akhirnya pada hari qurban itu, dia memilih fokus berkeliling untuk menanyakan dan memahami seluruh alur pencatatan pendataan qurban. Hal ini sangat bertolak belakang dengan tugasnya yang biasanya hanya menjadi seorang dekorator.*
-  * **Ternyata Dia Seorang Gamers! 👾**  
-    *Berbanding terbalik dengan penulis (wkwkwk), dia ternyata suka main game. Salah satu game yang dimainkannya adalah Roblox. Dia bercerita kalau teman-teman main barengnya (mabar) adalah bocil-bocil, dan terkadang mereka berkomunikasi via Discord.*
-  * **Tidak suka dingin ❄️**  
-    *Ketika aku menanyakan apakah dia kepanasan dan langsung menyalakan AC, dia bercerita bahwa dirinya tidak suka dingin.*
-  * **Jarang keluar rumah 🏠**  
-    *Saking jarangnya bepergian, dia bahkan tidak familiar dengan aplikasi Grab karena biasanya yang memesankan adalah ibunya.*
-  * **Memiliki kakak perempuan satu almamater 🎓**  
-    *Kakak perempuannya juga tinggal satu dusun dengan keluarganya, dan mereka berdua lulusan/bersekolah di almamater yang sama.*
-  * **Memiliki adik perempuan yang berjarak 8 tahun dengannya 👧**  
-    *Adik perempuannya tersebut baru kelas 6 SD. Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku.*
   * **Pernah dihukum karena "gholat" (salah/nakal) 🤫**  
     *Dia pernah dihukum membaca Al-Qur'an setiap selesai Subuh di depan rumah Wakil Pengasuh selama hampir 3 minggu lamanya. Hukuman itu didapat karena dia lupa jadwal mengajar; dia mengira ada di jam ke-3, padahal seharusnya dia mengajar di jam ke-2. Lucunya, kata temannya, kadang dia sampai tidak datang dihukum karena susah dibangunkan tidur.* 😂
   * **Cerita Belajar Kaligrafi & Handam Patah ✒️**  
@@ -103,9 +104,10 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
 
 Pada akhirnya, aku sadar bahwa aku hanya bisa mengagumi rubahku dari kejauhan. Aku tahu betul bahwa getaran perasaan ini adalah fitrah dan sunnah dari Allah. Namun, di saat yang sama, aku juga terus berjuang menjaga hati ini agar tidak menaruh harapan yang terlalu berlebih kepada ciptaan-Nya. 🤲✨
 
-Sebenarnya, ada kebimbangan yang mendalam di dalam diriku. Jika aku mengutarakan perasaan ini sekarang dan ternyata hanya bertepuk sebelah tangan, aku khawatir segalanya akan menjadi canggung. Pekerjaan kami setelah ini bisa berantakan karena komunikasi yang menjadi tidak enak. Tetapi di sisi lain, jika ternyata perasaan ini berbalas dan kami sama-sama tidak bisa mengendalikannya, kami malah bisa melangkah kelewat batas.
+Sebenarnya, ada kebimbangan yang mendalam di dalam diriku. Jika aku mengutarakan perasaan ini sekarang dan ternyata hanya bertepuk sebelah tangan, aku khawatir segalanya akan menjadi canggung. Pekerjaan kami setelah ini bisa berantakan karena komunikasi yang menjadi tidak enak. Tetapi di sisi lain, jika ternyata perasaan ini berbalas dan kami sama-sama tidak bisa mengendalikannya, kami malah bisa melangkah kelewat batas. Oleh karena itu, di setiap sepertiga malam, aku hanya bisa menitipkan namanya kepada Sang Pemilik Hati, meminta agar komunikasi kami dalam bekerja tetap terjaga dengan damai, tanpa ada rasa canggung yang merusak profesionalisme.
 
 Hingga akhirnya, aku memilih untuk tetap berpegang teguh pada prinsip keyakinanku:
+> 💭 **Prinsip Takdir:**  
 > *"Jika rubahmu itu adalah takdirmu, tanpa perlu kamu kejar secara berlebihan pun, ia akan selalu kembali kepadamu. Namun jika rubah itu bukan takdirmu, maka sekuat apa pun kamu mengejarnya, ia tidak akan pernah kembali kepadamu."* 🍃
 
 ---
@@ -117,4 +119,4 @@ Hingga akhirnya, aku memilih untuk tetap berpegang teguh pada prinsip keyakinank
 ---
 
 *Tertanda,*  
-*Seseorang yang sedang mengagumimu.* ✍️❤️
+***Seseorang yang sedang mengagumimu*** ✍️❤️
