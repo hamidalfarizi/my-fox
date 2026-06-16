@@ -1,13 +1,24 @@
 # Cerita Tentang Si Rubah 🦊✨
 
+Aku membuat catatan ini karena dia adalah satu-satunya orang yang menurutku paling antusias untuk menceritakan segalanya tentang dirinya—sesuatu yang tidak dilakukan kebanyakan orang, bahkan termasuk teman-teman se-genderku sendiri. 
+
+Aku merasa bahwa setiap ceritanya layak untuk diabadikan, dan ini adalah bentuk caraku menghargainya sebagai seorang manusia dan teman bercerita. Karena memang aku adalah tipe orang yang lebih suka mendengar, mungkin akan terasa lebih cocok jika bertemu dengan orang yang suka bercerita seperti dirinya. ✨
+
 ---
 
 ## Kenalin, Dia Rubah-ku 🧡
 Kenalin, dia adalah rubah-ku. Kalau ditanya kenapa dia suka rubah? Jawabannya sederhana: *karena dia ingin beda dari orang-orang kebanyakan yang suka kucing.* 
 
+Selain itu, dia mungkin juga menyukai anime. Soalnya, salah satu jenis rubah yang paling dia sukai adalah Kyuubi (rubah ekor sembilan). 🦊🍥
+
 Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan serigala. Menurut dia, serigala itu konotasinya jahat, sedangkan rubah itu berbeda. 🐺❌
 
 > "Rubah itu hewan berbadan anjing tapi berperilaku seperti kucing. Lucu banget kata dia." 🐾
+
+---
+
+## Cerita Tahun Lalu (Kesan Awal) ⏳
+Seingatku, dia adalah staf yang baru dipindah akhir tahun lalu. Namun tiba-tiba, aku mendapat informasi yang mengejutkan bahwa ada salah satu staf pusat data (yaitu dia) yang ternyata sudah bisa membuat website statis penuh. Padahal sebelumnya, hampir semua staf belum ada yang mengulik tentang pembuatan website.
 
 ---
 
@@ -34,6 +45,8 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
         *Adik perempuannya tersebut baru kelas 6 SD. Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku.*
     *   **Pernah dihukum karena "gholat" (salah/nakal) 🤫**  
         *Dia pernah dihukum membaca Al-Qur'an setiap selesai Subuh di depan rumah Wakil Pengasuh selama hampir 3 minggu lamanya. Hukuman itu didapat karena dia lupa jadwal mengajar; dia mengira ada di jam ke-3, padahal seharusnya dia mengajar di jam ke-2. Lucunya, kata temannya, kadang dia sampai tidak datang dihukum karena susah dibangunkan tidur.* 😂
+    *   **Cerita Belajar Kaligrafi & Handam Patah ✒️**  
+        *Ketika aku memeriksa tempat di mana dia biasanya melaporkan karya kaligrafinya, ternyata tidak kutemukan jejaknya di sana. Ketika kutanya, dia bercerita kalau dirinya sempat kesal karena pembelajaran khot (kaligrafi)-nya tidak maju-maju, bahkan sampai mematahkan 2 buah handam (pena bambu)! Meski begitu, dia tetap memiliki tekad kuat untuk menyelesaikan ijazah khot-nya akhir tahun nanti. Kita tunggu saja kabar baiknya ya!*
 
 ---
 
@@ -55,6 +68,11 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
 
 ## Catatan Hati 📜
 Pada akhirnya, aku sadar bahwa aku hanya bisa mengagumi rubahku dari kejauhan. Aku tahu betul bahwa getaran perasaan ini adalah fitrah dan sunnah dari Allah. Namun, di saat yang sama, aku juga terus berjuang menjaga hati ini agar tidak menaruh harapan yang terlalu berlebih kepada ciptaan-Nya. 🤲✨
+
+Sebenarnya, ada kebimbangan yang mendalam di dalam diriku. Jika aku mengutarakan perasaan ini sekarang dan ternyata hanya bertepuk sebelah tangan, aku khawatir segalanya akan menjadi canggung. Pekerjaan kami setelah ini bisa berantakan karena komunikasi yang menjadi tidak enak. Tetapi di sisi lain, jika ternyata perasaan ini berbalas dan kami sama-sama tidak bisa mengendalikannya, kami malah bisa melangkah kelewat batas.
+
+Hingga akhirnya, aku memilih untuk tetap berpegang teguh pada prinsip keyakinanku:
+> *"Jika rubahmu itu adalah takdirmu, tanpa perlu kamu kejar secara berlebihan pun, ia akan selalu kembali kepadamu. Namun jika rubah itu bukan takdirmu, maka sekuat apa pun kamu mengejarnya, ia tidak akan pernah kembali kepadamu."* 🍃
 
 ---
 
