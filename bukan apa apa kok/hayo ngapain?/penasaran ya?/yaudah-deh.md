@@ -57,19 +57,29 @@ Seingatku, dia adalah staf yang baru dipindah akhir tahun lalu. Namun tiba-tiba,
 
 ### 2. Pertemuan Malam Hari (Sekitar Jam 22.00)
 
-* **Momen:** [Tuliskan detail momen/suasana pertemuan malam di sini...]
+* **Momen:** Fokus pengerjaan dan pembuatan fitur baru di aplikasi.
 * **Catatan:** Masih berkaitan dengan pengerjaan project yang sama.
 * **Cerita & Hal Menarik Darinya:**
-  * *Belum ada cerita yang dicatat. Ketik di sini untuk menambahkan...*
+  * **Sama-sama Lelah dari Pagi 🥱**  
+    *Mungkin karena kami sudah sama-sama lelah beraktivitas sejak pagi, tidak banyak obrolan berarti yang bisa kuingat malam itu. Kami lebih banyak fokus pada pekerjaan.*
+  * **Pribadi yang Selalu Menepati Janji ⏰**  
+    *Satu hal yang pasti kuketahui tentang dia malam itu: dia adalah sosok yang selalu mengusahakan untuk memenuhi janji. Jika janjian jam 10 malam, dia akan mengusahakan sebaik mungkin untuk datang tepat di jam 10 juga.*
 
 ---
 
 ### 3. Pertemuan Pagi Hari (Jam 09.00)
 
-* **Momen:** [Tuliskan detail momen/suasana pertemuan pagi di sini...]
-* **Catatan:** Masih berkaitan dengan pengerjaan project yang sama.
+* **Momen:** Pertemuan pagi untuk melanjutkan koordinasi project yang sama.
+* **Catatan:** Dia tidak bisa ikut melanjutkan pekerjaan pada siang harinya.
 * **Cerita & Hal Menarik Darinya:**
-  * *Belum ada cerita yang dicatat. Ketik di sini untuk menambahkan...*
+  * **Tidak Bisa Lanjut Siang Hari karena Mudifah 💸**  
+    *Dia bercerita bahwa siang harinya dia tidak bisa ikut bekerja karena dia "mudifah" (dijenguk). Momen ini adalah waktu berharga baginya untuk bertemu orang tua, dan tentunya meminta uang jajan (sambil dia menunjukkan gestur kode tangan meminta uang).*
+  * **Latar Belakang Orang Tua 🚗🏡**  
+    *Aku mulai bertanya tentang orang tuanya. Dia bercerita kalau ayahnya adalah pemilik bengkel AC mobil, sedangkan ibunya adalah seorang ibu rumah tangga.*
+  * **Cerita tentang Mudifah & Paket Sekerdus 📦😂**  
+    *Saat mudifah, dia biasanya "ngemper" (duduk santai di lantai) layaknya santriyah lainnya. Orang tuanya biasanya membawakan paket kiriman sekerdus makanan, yang lucunya sering kali langsung habis ludes dibagikan bahkan sebelum sempat masuk ke kamarnya.*
+  * **Memberanikan Diri Menitip Salam 💌**  
+    *Akhirnya, aku memberanikan diri untuk menitipkan salam kepada kedua orang tuanya (walaupun aku sendiri tidak tahu apakah salam itu benar-benar disampaikan atau tidak). Dia membalasnya dengan menyemangatiku untuk melanjutkan pekerjaan rapat koordinasi pada siang hari itu. Ah, rasanya senang sekali!*
 
 ---
 
@@ -84,11 +94,11 @@ Hingga akhirnya, aku memilih untuk tetap berpegang teguh pada prinsip keyakinank
 
 ---
 
-*Tertanda,*  
-*Seseorang yang sedang mengagumimu.* ✍️❤️
-
----
-
 > *Catatan ini dibuat untuk mengingat momen-momen kecil dengan rubahku. Mungkin kelihatannya aneh—seorang programmer yang biasanya terkesan dingin, terkadang memiliki sisi lain yang begitu hangat.*
 >
 > *Terima kasih sudah membaca, nanti kalau ada yang diingat lagi akan ditambahkan di catatan ini!* 🦊💻✨
+
+---
+
+*Tertanda,*  
+*Seseorang yang sedang mengagumimu.* ✍️❤️
