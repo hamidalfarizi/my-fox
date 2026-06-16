@@ -11,28 +11,37 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
 
 ---
 
-## Pertemuan Pertama Kami 📅
-Pertemuan pertamaku dengan rubahku terjadi pada:
-*   **Hari/Waktu:** Sabtu Siang, (13.00 - 15.00)
-*   **Momen:** [di lab dcc, Al-Azhar 102, dimana aku, temanku dan dia sedang merencanakan beberapa proker untuk esok hari.]
+## Pertemuan-Pertemuan Kami 📅
+
+### 1. Pertemuan Pertama (Sabtu Siang, 13.00 - 15.00)
+*   **Momen:** Di lab dcc, Al-Azhar 102, di mana aku, temanku, dan dia sedang merencanakan beberapa proker untuk esok hari.
+*   **Cerita & Hal Menarik Darinya:**
+    *   **Tidak suka dingin ❄️**  
+        *Ketika aku menanyakan apakah dia kepanasan dan langsung menyalakan AC, dia bercerita bahwa dirinya tidak suka dingin.*
+    *   **Jarang keluar rumah 🏠**  
+        *Saking jarangnya bepergian, dia bahkan tidak familiar dengan aplikasi Grab karena biasanya yang memesankan adalah ibunya.*
+    *   **Memiliki kakak perempuan satu almamater 🎓**  
+        *Kakak perempuannya juga tinggal satu dusun dengan keluarganya, dan mereka berdua lulusan/bersekolah di almamater yang sama.*
+    *   **Memiliki adik perempuan yang berjarak 8 tahun dengannya 👧**  
+        *Adik perempuannya tersebut baru kelas 6 SD. Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku.*
+    *   **Pernah dihukum karena "gholat" (salah/nakal) 🤫**  
+        *Dia pernah dihukum membaca Al-Qur'an setiap selesai Subuh di depan rumah Wakil Pengasuh selama hampir 3 minggu lamanya. Hukuman itu didapat karena dia lupa jadwal mengajar; dia mengira ada di jam ke-3, padahal seharusnya dia mengajar di jam ke-2. Lucunya, kata temannya, kadang dia sampai tidak datang dihukum karena susah dibangunkan tidur.* 😂
 
 ---
 
-## Cerita-Cerita Kecil Darinya 💬
-Waktu itu, dia bercerita banyak hal menyenangkan kepada ku:
+### 2. Pertemuan Malam Hari (Sekitar Jam 22.00)
+*   **Momen:** [Tuliskan detail momen/suasana pertemuan malam di sini...]
+*   **Catatan:** Masih berkaitan dengan pengerjaan project yang sama.
+*   **Cerita & Hal Menarik Darinya:**
+    *   *Belum ada cerita yang dicatat. Ketik di sini untuk menambahkan...*
 
-1.  **Dia adalah pribadi yang tidak suka dingin ❄️**
-    *   *Ketika aku menanyakan apakah dia kepanasan dan langsung menyalakan AC, dia bercerita bahwa dirinya tidak suka dingin.*
-2.  **Dia jarang keluar rumah 🏠**
-    *   *Saking jarangnya bepergian, dia bahkan tidak familiar dengan aplikasi Grab karena biasanya yang memesankan adalah ibunya.*
-3.  **Memiliki kakak perempuan satu almamater 🎓**
-    *   *Kakak perempuannya juga tinggal satu dusun dengan keluarganya, dan mereka berdua lulusan/bersekolah di almamater yang sama.*
-4.  **Memiliki adik perempuan yang berjarak 8 tahun dengannya 👧**
-    *   *Adik perempuannya tersebut baru kelas 6 SD. Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku.*
-5.  **Mengaku terkadang bisa "gholat" (salah/nakal) 🤫**
-    *   *Dia pernah dihukum membaca Al-Qur'an setiap selesai Subuh di depan rumah Wakil Pengasuh selama hampir 3 minggu lamanya.*
-    *   *Hukuman itu didapat karena dia lupa jadwal mengajar; dia mengira ada di jam ke-3, padahal seharusnya dia mengajar di jam ke-2.*
-    *   *Lucunya, kata temannya, kadang dia sampai tidak datang dihukum karena susah dibangunkan tidur.* 😂
+---
+
+### 3. Pertemuan Pagi Hari (Jam 09.00)
+*   **Momen:** [Tuliskan detail momen/suasana pertemuan pagi di sini...]
+*   **Catatan:** Masih berkaitan dengan pengerjaan project yang sama.
+*   **Cerita & Hal Menarik Darinya:**
+    *   *Belum ada cerita yang dicatat. Ketik di sini untuk menambahkan...*
 
 ---
 
