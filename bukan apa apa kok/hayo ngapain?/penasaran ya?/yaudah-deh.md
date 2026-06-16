@@ -16,6 +16,14 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
 ### 1. Pertemuan Pertama (Sabtu Siang, 13.00 - 15.00)
 *   **Momen:** Di lab dcc, Al-Azhar 102, di mana aku, temanku, dan dia sedang merencanakan beberapa proker untuk esok hari.
 *   **Cerita & Hal Menarik Darinya:**
+    *   **Punya Basic Skill Dekorator & Amanah Pembuatan Aplikasi 🎨💻**  
+        *Dia bercerita bahwa dia memiliki keahlian dasar sebagai dekorator, bahkan hampir di setiap kepanitiaan dia menjadi dekorator. Namun, karena tahun lalu diamanahi di bagian data, mau tidak mau tanggung jawabnya bertambah untuk membuat aplikasi sederhana hingga tingkat lanjut.*
+    *   **Prinsip Hobi vs Tanggung Jawab ⚖️**  
+        *Dia sempat berkata: "Hobi tidak boleh dicampur dengan pekerjaan. Dekorator adalah hobi, sementara ini (pembuatan aplikasi) adalah tanggung jawab."*
+    *   **Alasan Belajar Membuat Aplikasi 🎮**  
+        *Ketika kutanya kenapa dia mau belajar pembuatan aplikasi ini, jawabannya sederhana: karena dia pernah bercita-cita membuat game.*
+    *   **Ternyata Dia Seorang Gamers! 👾**  
+        *Berbanding terbalik dengan penulis (wkwkwk), dia ternyata suka main game. Salah satu game yang dimainkannya adalah Roblox. Dia bercerita kalau teman-teman main barengnya (mabar) adalah bocil-bocil, dan terkadang mereka berkomunikasi via Discord.*
     *   **Tidak suka dingin ❄️**  
         *Ketika aku menanyakan apakah dia kepanasan dan langsung menyalakan AC, dia bercerita bahwa dirinya tidak suka dingin.*
     *   **Jarang keluar rumah 🏠**  
