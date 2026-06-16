@@ -111,6 +111,10 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
     *Saat mudifah, dia biasanya "ngemper" (duduk santai di lantai) layaknya santriyah lainnya. Orang tuanya biasanya membawakan paket kiriman sekerdus makanan, yang lucunya sering kali langsung habis ludes dibagikan bahkan sebelum sempat masuk ke kamarnya.*
   * **Memberanikan Diri Menitip Salam 💌**  
     *Akhirnya, aku memberanikan diri untuk menitipkan salam kepada kedua orang tuanya (walaupun aku sendiri tidak tahu apakah salam itu benar-benar disampaikan atau tidak). Dia membalasnya dengan menyemangatiku untuk melanjutkan pekerjaan rapat koordinasi pada siang hari itu. Ah, rasanya senang sekali!*
+  * **Keluhan Guru Pengganti & Tanya Fitur Doreh 🏫📅**
+    *Dia sempat mengeluhkan mengapa teman-teman sebayanya yang sudah di tahun kedua mengajar di tempat itu masih sering ditugaskan menjadi guru pengganti, padahal guru tahun pertama masih banyak memiliki jadwal kosong. Dia kemudian bertanya tentang aplikasi Doreh dan fitur di dalamnya. Aku menjawab bahwa di aplikasi Doreh, penunjukan guru pengganti setiap harinya akan selalu difokuskan ke guru tahun pertama terlebih dahulu sampai tidak ada yang kosong sama sekali. Mendengar itu, dia langsung mengeluh, "NAH KAN, kenapa sih para petugas itu tidak pakai aplikasi Doreh saja? Biar teman-teman sebayaku tidak gedubrakan mengurusi jadwal pengganti guru yang izin."*
+  * **Obrolan Data Yatim (Orphan Data) 👨‍💻🍼**
+    *Di pertemuan ini pula, dia sempat menanyakan tentang istilah "data orphan" (data yatim) dan bercanda menanyakan apakah memang ada data yang yatim (wkwkwk). Aku menjawab ada, lalu menjelaskan konsep relasi `hasOne` dan `hasMany` pada baris kode Yii2 serta memberikan review kasus *orphan child* di database, di mana relasi antara tabel `obat_keluar` dan `obat_keluar_detail` menjadi salah satu contoh kasusnya.*
 
 ---
 
