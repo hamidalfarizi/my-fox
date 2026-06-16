@@ -134,7 +134,7 @@ Hingga akhirnya, aku memilih untuk tetap berpegang teguh pada prinsip keyakinank
 >
 > *Terima kasih sudah membaca, nanti kalau ada yang diingat lagi akan ditambahkan di catatan ini!* 🦊💻✨
 >
-> *Catatan tambahan: Jika suatu saat rubahku membaca catatan ini, aku harap ia tetap menjadi rubahku yang apa adanya dan tidak canggung denganku karena tahu perasaanku, dan feel free jika ingin membahasnya dalam obrolan lain waktu, wkwkwk.* 🍂
+> *Jika suatu saat rubahku membaca catatan ini, aku harap ia tetap menjadi rubahku yang apa adanya dan tidak canggung denganku karena tahu perasaanku, dan feel free jika ingin membahasnya dalam obrolan lain waktu, wkwkwk.* 🍂
 
 ---
 
