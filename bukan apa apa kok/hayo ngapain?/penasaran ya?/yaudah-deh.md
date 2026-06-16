@@ -57,8 +57,8 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
 * **Momen:** Di lab dcc, Al-Azhar 102. Kami sedang memasang aplikasi dan membuat blueprint untuk aplikasi manajemen inventaris, sekaligus merencanakan beberapa proker untuk esok hari.
 * **Cerita & Hal Menarik Darinya:**
   * **Tujuan Kedatangan & Obrolan tentang Client Lawan Jenis 🛰️👩‍💻**  
-    *Aku menjelaskan alasanku datang ke DCC Al-Azhar adalah karena ada project deploy dari kampus sebelah. Berhubung akses remote SSH-nya bisa diakses dari kampusnya, aku memilih ke DCC karena banyak temannya di sini. Dia sempat bertanya, "Aplikasi yang Node Monitor itu ya?" Aku menjawab bukan, karena Node Monitor ini untuk memantau server cabang, sedangkan kedatanganku ke sini adalah untuk mendeploy server bagi kampus ke-3 (dari total 20 kampus sisanya).*  
-    *Di sela-sela pengerjaan, aku sempat mengeluh bahwa rasanya repot sekali jika seorang software engineer harus bertemu langsung dengan lawan jenis dan menjelaskan hal-hal teknis yang sering kali membutuhkan pengulangan. Mendengar keluhanku, dia mengamini dan berkata dengan nada setuju bahwa memang repot sekali mengurusi kampus cewek.*
+    *Aku menjelaskan alasanku datang ke DCC Al-Azhar adalah karena ada project deploy dari kampus sebelah. Berhubung akses remote SSH-nya bisa diakses dari kampus rubahku, aku memilih ke DCC Al-Azhar 102 karena di sana, aku memiliki teman. Dia sempat bertanya, "Aplikasi yang `Node Monitor` itu ya?" Aku menjawab bukan, karena `Node Monitor` ini untuk memantau server cabang, sedangkan kedatanganku ke sini adalah untuk mendeploy server bagi kampus ke-3 (dari total 20 kampus sisanya).*  
+    *Di sela-sela pengerjaan, aku sempat mengeluh bahwa rasanya repot sekali jika seorang software engineer harus bertemu langsung dengan lawan jenis dan menjelaskan hal-hal teknis yang sering kali membutuhkan pengulangan. Mendengar keluhanku, dia mengamini dan berkata dengan nada setuju bahwa memang repot sekali mengurusi client dari kampus cewek.*
   * **Punya Basic Skill Dekorator & Amanah Pembuatan Aplikasi 🎨💻**  
     *Dia bercerita bahwa dia memiliki keahlian dasar sebagai dekorator, bahkan hampir di setiap kepanitiaan dia menjadi dekorator. Namun, karena tahun lalu diamanahi di bagian data, mau tidak mau tanggung jawabnya bertambah untuk membuat aplikasi sederhana hingga tingkat lanjut.*
   * **Kendala Laptop Lemot & Orang Tua yang Selektif Anggaran 💻⏳**  
@@ -69,10 +69,10 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
     *Ketika kutanya kenapa dia mau belajar pembuatan aplikasi ini, jawabannya sederhana: karena dia pernah bercita-cita membuat game.*
   * **Suka Mencatat Alur Pekerjaan & Aplikasi 📝**  
     *Dia adalah pribadi yang selalu mencatat semua pekerjaan yang akan dilakukannya, bahkan hingga alur aplikasi yang akan dibuatnya. Kebiasaan teratur ini terbukti dari kenyataan bahwa dirinya memiliki beberapa buku catatan yang berbeda-beda.*
-  * **Apresiasi Aplikasi "Quwiren" & Hadiah Google AI Pro 🎁**  
-    *Di pertemuan pertama ini, dia sempat mengeluhkan kalau token Antigravity-nya sering habis karena tidak berlangganan. Karena sebelumnya aku sudah berjanji akan memberinya hadiah atas keberhasilannya menyelesaikan aplikasi manajemen qurban yang diberi nama "Quwiren", pada siang itu juga aku langsung menghadiahi dirinya akun Google AI Pro.*
-  * **Kisah di Balik Aplikasi "Quwiren" yang Batal Digunakan 🐑💔**  
-    *Dia bercerita bahwa aplikasi "Quwiren" yang ia bangun dengan susah payah selama satu minggu ternyata tidak jadi digunakan pada hari-H. Awalnya dia merasa kesal dan marah sejadi-jadinya. Namun keesokan harinya saat acara qurban, dia menyadari bahwa jika dipaksakan untuk dipakai, justru hasilnya tidak akan maksimal. Akhirnya pada hari qurban itu, dia memilih fokus berkeliling untuk menanyakan dan memahami seluruh alur pencatatan pendataan qurban. Hal ini sangat bertolak belakang dengan tugasnya yang biasanya hanya menjadi seorang dekorator.*
+  * **Apresiasi Aplikasi `Quwiren` & Hadiah Google AI Pro 🎁**  
+    *Di pertemuan pertama ini, dia sempat mengeluhkan kalau token `Antigravity`-nya sering habis karena tidak berlangganan. Karena sebelumnya aku sudah berjanji akan memberinya hadiah atas keberhasilannya menyelesaikan aplikasi manajemen qurban yang diberi nama `Quwiren`, pada siang itu juga aku langsung menghadiahi dirinya akun Google AI Pro.*
+  * **Kisah di Balik Aplikasi `Quwiren` yang Batal Digunakan 🐑💔**  
+    *Dia bercerita bahwa aplikasi `Quwiren` yang ia bangun dengan susah payah selama satu minggu ternyata tidak jadi digunakan pada hari-H. Awalnya dia merasa kesal dan marah sejadi-jadinya. Namun keesokan harinya saat acara qurban, dia menyadari bahwa jika dipaksakan untuk dipakai, justru hasilnya tidak akan maksimal. Akhirnya pada hari qurban itu, dia memilih fokus berkeliling untuk menanyakan dan memahami seluruh alur pencatatan pendataan qurban. Hal ini sangat bertolak belakang dengan tugasnya yang biasanya hanya menjadi seorang dekorator.*
   * **Protes Instagram & Cerita di Balik Akunnya 📱🔍**  
     *Aku sempat memprotes kenapa akun Instagram-ku belum dia follow back (follback). Dia langsung bertanya, "Follow akun yang mana nih?" Dia kemudian menjelaskan bahwa akun dengan nama lengkapnya adalah akun yang biasa dia berikan ke anak-anak didiknya jika ada yang bertanya, sedangkan akun satunya lagi adalah akun privat khusus untuk teman-teman sebayanya.*  
     *Siang itu juga, aku langsung mem-follow semua akun miliknya yang kutahu, sambil berharap nanti saat liburan dia bersedia mem-follback-ku. (Entahlah, apakah terlalu berharap perasaan ini berbalas adalah hal yang berlebihan? Wkwkwk).*
@@ -115,7 +115,7 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
     *Saat mudifah, dia biasanya "ngemper" (duduk santai di lantai) layaknya santriyah lainnya. Orang tuanya biasanya membawakan paket kiriman sekerdus makanan, yang lucunya sering kali langsung habis ludes dibagikan bahkan sebelum sempat masuk ke kamarnya.*
   * **Memberanikan Diri Menitip Salam 💌**  
     *Akhirnya, aku memberanikan diri untuk menitipkan salam kepada kedua orang tuanya (walaupun aku sendiri tidak tahu apakah salam itu benar-benar disampaikan atau tidak). Dia membalasnya dengan menyemangatiku untuk melanjutkan pekerjaan rapat koordinasi pada siang hari itu. Ah, rasanya senang sekali!*
-  
+
 ---
 
 ## Catatan Hati 📜
