@@ -30,6 +30,8 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
 *   **Jarang Keluar Rumah 🏠**  
     *Saking jarangnya bepergian, dia bahkan tidak familiar dengan aplikasi Grab karena biasanya yang memesankan adalah ibunya.*
 *   **Keluarga & Saudara 🏡**  
+    *   *Ayah:* Berprofesi sebagai pemilik bengkel AC mobil. Beliau bergelar Haji, dan bersama sang Ibu, keduanya sudah pernah dipanggil Allah untuk menunaikan ibadah ke tanah suci. 🕋🚗
+    *   *Ibu:* Seorang ibu rumah tangga (yang biasanya memesankan Grab untuk rubahku. Menurut ceritanya, ibunya tipe yang sangat teliti jika dia meminta anggaran untuk membeli sesuatu, wkwkwk). 🏠
     *   *Kakak Perempuan:* Tinggal satu dusun dengan keluarganya, dan mereka berdua lulusan/bersekolah di almamater yang sama. 🎓
     *   *Adik Perempuan:* Berjarak 8 tahun dengannya (baru kelas 6 SD). Katanya sih, mau ikut disekolahkan di tempat yang sama dengan rubahku. 👧
 
@@ -51,10 +53,12 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
 
 ### 1. Pertemuan Pertama (Sabtu Siang, 13.00 - 15.00)
 
-* **Momen:** Di lab dcc, Al-Azhar 102, di mana aku, temanku, dan dia sedang merencanakan beberapa proker untuk esok hari.
+* **Momen:** Di lab dcc, Al-Azhar 102. Kami sedang memasang aplikasi dan membuat blueprint untuk aplikasi manajemen inventaris, sekaligus merencanakan beberapa proker untuk esok hari.
 * **Cerita & Hal Menarik Darinya:**
   * **Punya Basic Skill Dekorator & Amanah Pembuatan Aplikasi 🎨💻**  
     *Dia bercerita bahwa dia memiliki keahlian dasar sebagai dekorator, bahkan hampir di setiap kepanitiaan dia menjadi dekorator. Namun, karena tahun lalu diamanahi di bagian data, mau tidak mau tanggung jawabnya bertambah untuk membuat aplikasi sederhana hingga tingkat lanjut.*
+  * **Kendala Laptop Lemot & Orang Tua yang Selektif Anggaran 💻⏳**  
+    *Saat kami sedang bekerja, laptop rubahku ternyata lemot sekali. Ketika aku menyarankan agar dia meminta dibelikan laptop baru saja kepada orang tuanya, dia bercerita bahwa orang tuanya adalah tipe yang cukup selektif masalah anggaran belanja. Hal ini membuatnya cukup kesal dengan laptop lemot tersebut. Bahkan, jika ada tugas kuliah yang berat, dia rela meminjam laptop milik temannya demi menyelesaikannya.*
   * **Prinsip Hobi vs Tanggung Jawab ⚖️**  
     *Dia sempat berkata: "Hobi tidak boleh dicampur dengan pekerjaan. Dekorator adalah hobi, sementara ini (pembuatan aplikasi) adalah tanggung jawab."*
   * **Alasan Belajar Membuat Aplikasi 🎮**  
@@ -92,7 +96,7 @@ Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang aka
   * **Tidak Bisa Lanjut Siang Hari karena Mudifah 💸**  
     *Dia bercerita bahwa siang harinya dia tidak bisa ikut bekerja karena dia "mudifah" (dijenguk). Momen ini adalah waktu berharga baginya untuk bertemu orang tua, dan tentunya meminta uang jajan (sambil dia menunjukkan gestur kode tangan meminta uang).*
   * **Latar Belakang Orang Tua 🚗🏡**  
-    *Aku mulai bertanya tentang orang tuanya. Dia bercerita kalau ayahnya adalah pemilik bengkel AC mobil, sedangkan ibunya adalah seorang ibu rumah tangga.*
+    *Aku mulai bertanya tentang orang tuanya. Dia bercerita kalau ayahnya adalah pemilik bengkel AC mobil, sedangkan ibunya adalah seorang ibu rumah tangga. Belakangan aku baru mengetahui bahwa ayahnya bergelar Haji, dan kedua orang tuanya sudah pernah dipanggil Allah untuk menunaikan ibadah ke tanah suci.*
   * **Cerita tentang Mudifah & Paket Sekerdus 📦😂**  
     *Saat mudifah, dia biasanya "ngemper" (duduk santai di lantai) layaknya santriyah lainnya. Orang tuanya biasanya membawakan paket kiriman sekerdus makanan, yang lucunya sering kali langsung habis ludes dibagikan bahkan sebelum sempat masuk ke kamarnya.*
   * **Memberanikan Diri Menitip Salam 💌**  
