@@ -4,6 +4,10 @@ Aku membuat catatan ini karena dia adalah satu-satunya orang yang menurutku pali
 
 Aku merasa bahwa setiap ceritanya layak untuk diabadikan, dan ini adalah bentuk caraku menghargainya sebagai seorang manusia dan teman bercerita. Karena memang aku adalah tipe orang yang lebih suka mendengar, mungkin akan terasa lebih cocok jika bertemu dengan orang yang suka bercerita seperti dirinya. ✨
 
+Jujur, aku selalu merasa tidak percaya diri dan *insecure* jika harus dihadapkan dengan pekerjaan yang melibatkan lawan jenis di dalamnya. Apalagi jika harus bertatapan dan mengobrol berdua saja untuk membahas pekerjaan tersebut, sungguh aku merasa sangat tidak percaya diri!
+
+Namun, ketika bertemu dengan rubahku, aku merasakan sesuatu yang sangat berbeda. Sorot matanya adalah sorot mata yang tulus tanpa menghakimi. Dia menceritakan tentang dirinya apa adanya, bahkan dari hal-hal receh hingga hal "gelap" sekalipun. Celotehannya ketika sedang pusing memahami baris kode adalah bukti nyata bahwa dia tidak malu untuk menunjukkan siapa dirinya yang sebenarnya di depanku. 🌸
+
 ---
 
 ## Kenalin, Dia Rubah-ku 🧡
@@ -38,6 +42,12 @@ Seingatku, dia adalah staf yang baru dipindah akhir tahun lalu. Namun tiba-tiba,
     *Dia sempat berkata: "Hobi tidak boleh dicampur dengan pekerjaan. Dekorator adalah hobi, sementara ini (pembuatan aplikasi) adalah tanggung jawab."*
   * **Alasan Belajar Membuat Aplikasi 🎮**  
     *Ketika kutanya kenapa dia mau belajar pembuatan aplikasi ini, jawabannya sederhana: karena dia pernah bercita-cita membuat game.*
+  * **Suka Mencatat Alur Pekerjaan & Aplikasi 📝**  
+    *Dia adalah pribadi yang selalu mencatat semua pekerjaan yang akan dilakukannya, bahkan hingga alur aplikasi yang akan dibuatnya. Kebiasaan teratur ini terbukti dari kenyataan bahwa dirinya memiliki beberapa buku catatan yang berbeda-beda.*
+  * **Apresiasi Aplikasi "Quwiren" & Hadiah Google AI Pro 🎁**  
+    *Di pertemuan pertama ini, dia sempat mengeluhkan kalau token Antigravity-nya sering habis karena tidak berlangganan. Karena sebelumnya aku sudah berjanji akan memberinya hadiah atas keberhasilannya menyelesaikan aplikasi manajemen qurban yang diberi nama "Quwiren", pada siang itu juga aku langsung menghadiahi dirinya akun Google AI Pro.*
+  * **Kisah di Balik Aplikasi "Quwiren" yang Batal Digunakan 🐑💔**  
+    *Dia bercerita bahwa aplikasi "Quwiren" yang ia bangun dengan susah payah selama satu minggu ternyata tidak jadi digunakan pada hari-H. Awalnya dia merasa kesal dan marah sejadi-jadinya. Namun keesokan harinya saat acara qurban, dia menyadari bahwa jika dipaksakan untuk dipakai, justru hasilnya tidak akan maksimal. Akhirnya pada hari qurban itu, dia memilih fokus berkeliling untuk menanyakan dan memahami seluruh alur pencatatan pendataan qurban. Hal ini sangat bertolak belakang dengan tugasnya yang biasanya hanya menjadi seorang dekorator.*
   * **Ternyata Dia Seorang Gamers! 👾**  
     *Berbanding terbalik dengan penulis (wkwkwk), dia ternyata suka main game. Salah satu game yang dimainkannya adalah Roblox. Dia bercerita kalau teman-teman main barengnya (mabar) adalah bocil-bocil, dan terkadang mereka berkomunikasi via Discord.*
   * **Tidak suka dingin ❄️**  
