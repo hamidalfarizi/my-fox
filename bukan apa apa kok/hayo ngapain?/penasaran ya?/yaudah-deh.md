@@ -10,9 +10,7 @@ Namun, ketika bertemu dengan rubahku, aku merasakan sesuatu yang sangat berbeda.
 
 ---
 
-## Kenalin, Dia Rubah-ku 🧡
-
-Kenalin, dia adalah rubah-ku. 🦊✨
+## Kenalin, dia adalah rubah-ku. 🧡🦊✨
 
 Kalau ditanya kenapa dia suka rubah? Jawabannya sederhana: *karena dia ingin beda dari orang-orang kebanyakan yang suka kucing.*
 
