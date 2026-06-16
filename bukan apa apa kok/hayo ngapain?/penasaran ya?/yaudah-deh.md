@@ -28,6 +28,12 @@ Satu hal yang penting: dia paling tidak suka kalau rubah disamakan dengan seriga
 
 Seingatku, dia adalah staf yang baru dipindah akhir tahun lalu. Namun tiba-tiba, aku mendapat informasi yang mengejutkan bahwa ada salah satu staf pusat data (yaitu dia) yang ternyata sudah bisa membuat website statis penuh. Padahal sebelumnya, hampir semua staf belum ada yang mengulik tentang pembuatan website.
 
+Pada akhirnya, di beberapa kesempatan, dia meminta tolong kepadaku untuk mendeploykan webnya ke hosting GitHub, dan aku mengiyakannya. Bagiku, itu adalah bukti nyata keseriusannya dalam membuat aplikasi.
+
+Menurutku, dia adalah pribadi yang lain daripada teman-temannya. Sebab, ketika diajari tentang konsep repository GitHub, dia bisa langsung memahaminya hanya dalam satu kali penjelasan saja! Dia bahkan langsung bisa berkolaborasi dalam sebuah project karena sudah bisa melakukan commit dan pull di server. Sungguh sebuah keajaiban menemukannya, karena menurutku dia adalah pribadi yang sangat mudah dan cepat nyambung ketika diajari sesuatu (terutama teknologi).
+
+Kisah berlanjut ketika aku mencoba menawarkan, apakah dia punya project yang akan dikerjakan tahun ini? Karena dia menjawab tidak ada, maka aku menawarinya untuk mengerjakan project ICT Gontor yang sudah lama terbengkalai, yaitu aplikasi manajemen inventaris. Kami pun sepakat bahwa kami akan mulai mengerjakannya setelah murojaah tengah semester selesai (karena saat itu rubahku sudah mulai memiliki waktu kosong). 💻✨
+
 ---
 
 ## Pertemuan-Pertemuan Kami 📅
