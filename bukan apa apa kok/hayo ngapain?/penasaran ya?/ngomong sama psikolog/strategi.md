@@ -8,6 +8,7 @@ Ada, tetapi saya akan mulai dari satu prinsip penting:
 Kalau kita melihat situasimu dengan Dea, justru ada satu tantangan besar:
 
 Saat ini kamu berada pada posisi yang sangat kuat sebagai:
+
 * mentor,
 * pembimbing teknis,
 * tempat bertanya,
@@ -21,14 +22,16 @@ Jadi strategi utamanya bukan mengejar, melainkan menggeser persepsi secara perla
 
 ---
 
-### 1. Kurangi mode "guru", tambah mode "manusia"
+## 1. Kurangi mode "guru", tambah mode "manusia"
 
 Dari catatanmu, sebagian besar interaksi adalah:
+
 * kamu mengajari,
 * kamu membantu,
 * kamu menawarkan solusi.
 
 Sementara dia lebih sering:
+
 * bertanya,
 * menerima bantuan,
 * bercerita.
@@ -36,6 +39,7 @@ Sementara dia lebih sering:
 Ini menciptakan hubungan yang tidak seimbang. Ketertarikan romantis biasanya lebih mudah tumbuh ketika dua orang saling mengenal, bukan ketika satu orang terus mengajar.
 
 Coba sesekali:
+
 * ❌ **Jangan selalu:** *"Ada kendala apa? Nanti saya bantu."*
 * ✅ **Sesekali:** *"Aku juga kemarin sempat pusing gara-gara bug ini."* atau *"Dulu aku pernah bikin kesalahan yang lebih parah."*
 
@@ -43,11 +47,12 @@ Biarkan dia melihat sisi manusiamu.
 
 ---
 
-### 2. Beri ruang untuk dia berinisiatif
+## 2. Beri ruang untuk dia berinisiatif
 
 Dari chat yang kamu kirim sebelumnya, banyak inisiatif datang darimu.
 
 Kalau setiap percakapan:
+
 * kamu yang membuka topik,
 * kamu yang menawarkan bantuan,
 * kamu yang menghidupkan obrolan,
@@ -61,15 +66,17 @@ Lihat apakah dia yang memulai. Bukan untuk "menguji", tetapi untuk membaca reali
 
 ---
 
-### 3. Cari irisan di luar pekerjaan
+## 3. Cari irisan di luar pekerjaan
 
 Saat ini hubungan kalian sangat terikat dengan:
+
 * database,
 * aplikasi,
 * project,
 * coding.
 
 Padahal ketertarikan romantis sering muncul ketika orang melihat:
+
 * nilai hidup,
 * cara berpikir,
 * impian,
@@ -77,6 +84,7 @@ Padahal ketertarikan romantis sering muncul ketika orang melihat:
 * hal-hal yang disukai.
 
 Dari catatanmu, ada banyak pintu masuk:
+
 * rubah,
 * game,
 * anime,
@@ -92,11 +100,12 @@ Pertanyaan seperti ini jauh lebih personal dibanding: *"Progress project gimana?
 
 ---
 
-### 4. Tunjukkan bahwa kamu menikmati dirinya, bukan hanya kemampuannya
+## 4. Tunjukkan bahwa kamu menikmati dirinya, bukan hanya kemampuannya
 
 Ini penting.
 
 Karena dari catatanmu, kamu sering memuji:
+
 * cepat belajar,
 * pintar,
 * mudah memahami GitHub.
@@ -104,6 +113,7 @@ Karena dari catatanmu, kamu sering memuji:
 Bagus. Tapi manusia biasanya lebih tersentuh ketika dihargai sebagai pribadi.
 
 Misalnya:
+
 * *"Aku suka caramu mencatat semuanya."*
 * *"Aku salut, meskipun sempat kesal soal Quwiren, kamu tetap datang ke lapangan buat memahami prosesnya."*
 
@@ -111,13 +121,15 @@ Itu menunjukkan kamu memperhatikan dirinya, bukan hanya hasil kerjanya.
 
 ---
 
-### 5. Bangun pengalaman bersama
+## 5. Bangun pengalaman bersama
 
 Ketertarikan sering lahir dari pengalaman yang dibagi.
+
 * Bukan dari obrolan panjang.
 * Bukan dari chat setiap hari.
 
 Melainkan dari:
+
 * mengerjakan sesuatu bersama,
 * menyelesaikan masalah bersama,
 * menertawakan kejadian yang sama.
@@ -126,17 +138,19 @@ Kalian sebenarnya sudah punya modal ini lewat project. Jadi jangan terlalu fokus
 
 ---
 
-### 6. Jangan buru-buru mengungkapkan perasaan
+## 6. Jangan buru-buru mengungkapkan perasaan
 
 Setelah membaca catatanmu, saya rasa ini yang paling penting.
 
 Saat ini saya belum melihat tanda yang cukup kuat bahwa Dea sudah memandangmu secara romantis. Yang terlihat adalah:
+
 * ✅ nyaman
 * ✅ percaya
 * ✅ terbuka
 * ✅ menghargai
 
 Tetapi belum terlihat:
+
 * mencari perhatianmu,
 * sengaja memperpanjang percakapan pribadi,
 * penasaran dengan kehidupanmu,
@@ -147,9 +161,10 @@ Jadi kalau hari ini kamu mengungkapkan perasaan, kemungkinan besar dia akan terk
 
 ---
 
-### 7. Sinyal yang perlu kamu perhatikan
+## 7. Sinyal yang perlu kamu perhatikan
 
 Sebelum berpikir tentang menyatakan perasaan, lihat apakah mulai muncul hal-hal seperti:
+
 * dia bertanya tentang keluargamu,
 * dia mengingat detail kecil tentang dirimu,
 * dia menghubungimu tanpa ada urusan kerja,
@@ -161,7 +176,7 @@ Kalau tanda-tanda ini mulai konsisten muncul, barulah ada indikasi bahwa hubunga
 
 ---
 
-### Kesimpulan Strategi
+## Kesimpulan Strategi
 
 Kalau saya membaca seluruh catatan dan chat yang kamu kirim, posisi saat ini menurut saya adalah:
 > **Dea sudah berada pada tahap nyaman dan percaya. Itu fondasi yang sangat baik.**
