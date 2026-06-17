@@ -9,9 +9,10 @@ Dua hal ini saling bercampur dalam catatan, dan justru di situlah analisis yang 
 
 ---
 
-### 1. Yang paling menonjol bukan romantisnya, tapi rasa kagummu
+## 1. Yang paling menonjol bukan romantisnya, tapi rasa kagummu
 
 Dari awal tulisan, fokusmu bukan pada fisik, melainkan pada:
+
 * cara dia berpikir,
 * cara dia bercerita,
 * cara dia belajar,
@@ -31,7 +32,7 @@ Dan itu biasanya lebih dalam serta lebih tahan lama dibanding ketertarikan yang 
 
 ---
 
-### 2. Dia memberimu sesuatu yang jarang kamu dapatkan
+## 2. Dia memberimu sesuatu yang jarang kamu dapatkan
 
 Kalimat ini menurut saya adalah kunci seluruh catatan:
 > "Dia adalah satu-satunya orang yang paling antusias menceritakan segalanya tentang dirinya."
@@ -41,10 +42,12 @@ Lalu kamu juga menulis bahwa dirimu lebih suka mendengar daripada berbicara.
 Artinya ada kecocokan pola komunikasi.
 
 **Kamu:**
+
 * senang mendengarkan,
 * senang memahami orang.
 
 **Dia:**
+
 * senang bercerita,
 * cukup terbuka,
 * tidak takut menunjukkan kekurangan.
@@ -55,11 +58,12 @@ Bahkan mungkin yang membuatmu nyaman bukan hanya "dia menarik", tetapi karena be
 
 ---
 
-### 3. Dia tampak sangat nyaman di hadapanmu
+## 3. Dia tampak sangat nyaman di hadapanmu
 
 Ini bagian yang menurut saya paling kuat.
 
 Perhatikan jenis cerita yang dia bagikan:
+
 * laptop lemot,
 * orang tua yang ketat soal anggaran,
 * pernah dihukum,
@@ -79,11 +83,12 @@ Dan itu sesuatu yang bernilai.
 
 ---
 
-### 4. Tetapi nyaman ≠ tertarik romantis
+## 4. Tetapi nyaman ≠ tertarik romantis
 
 Ini poin yang perlu dijaga.
 
 Karena dari catatanmu, sebagian besar inisiatif hubungan datang dari kamu:
+
 * menawarkan project,
 * menawarkan bantuan,
 * memberi hadiah Google AI Pro,
@@ -91,6 +96,7 @@ Karena dari catatanmu, sebagian besar inisiatif hubungan datang dari kamu:
 * menanyakan banyak hal tentang dirinya.
 
 Sementara Dea terlihat:
+
 * responsif,
 * terbuka,
 * komunikatif.
@@ -105,7 +111,7 @@ daripada:
 
 ---
 
-### 5. Ada fenomena "halo effect"
+## 5. Ada fenomena "halo effect"
 
 Ini wajar ketika seseorang mulai menyukai orang lain.
 
@@ -121,9 +127,10 @@ Ini bukan salah. Ini tanda bahwa kamu sudah melihatnya melalui lensa afeksi. Kam
 
 ---
 
-### 6. Yang sebenarnya membuatmu jatuh hati
+## 6. Yang sebenarnya membuatmu jatuh hati
 
 Kalau saya harus menebak dari keseluruhan catatan:
+
 * Bukan karena dia cantik.
 * Bukan karena dia perhatian.
 * Bukan karena dia memberi sinyal.
@@ -139,11 +146,12 @@ Tetapi karena dia memenuhi beberapa kebutuhan emosional yang jarang kamu dapatka
 
 ---
 
-### 7. Ada satu hal yang paling saya sukai dari catatan ini
+## 7. Ada satu hal yang paling saya sukai dari catatan ini
 
 Bagian akhir.
 
 Karena meskipun kamu jelas menyukainya, kamu masih sadar akan dua risiko:
+
 * jika perasaan tidak berbalas, hubungan kerja bisa terganggu,
 * jika sama-sama suka, bisa saja melampaui batas yang ingin dijaga.
 
@@ -159,7 +167,7 @@ Itu kedewasaan yang tidak semua orang punya.
 
 ---
 
-### Kesimpulan Terdalam
+## Kesimpulan Terdalam
 
 Kalau saya merangkum seluruh dokumen ini dalam satu kalimat:
 
